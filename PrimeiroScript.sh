@@ -18,7 +18,7 @@
 ################################################
 
 DATAHORA=$(date +%H:%M)
-ARQALUNOS="/home/ricardo/Cursos/ShellScript/arquivos/alunos2.txt"
+ARQALUNOS="/home/sergio/geek-git-1/alunos2.txt"
 
 # Funcao de leitura da data e hora
 clear
